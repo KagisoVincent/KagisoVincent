@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KagisoVincent
-- 🌱 I’m currently learning Front End Dev
+- 🌱 I’m currently learning Front End Dev , Java Dev, C++ ,python ,sql and matplab
+- 
 - 💞️ I’m looking to collaborate on companies who seek front end devs
 - 📫 How to reach me , email kgogolevincent@gmail.com  call:0637829072
   
